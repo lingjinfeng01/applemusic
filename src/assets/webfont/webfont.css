@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "applemusic";
+    src:  url('fonts/zhongshan.ttf') format('truetype'); 
+}
+  
+.web-font {
+    font-family: "applemusic" !important;
+    font-size: 20px;
+    font-style: normal;
+}
